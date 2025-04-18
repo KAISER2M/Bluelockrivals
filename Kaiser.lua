@@ -1799,4 +1799,8 @@ end)
 Bllladeball:CreateButton("Hixbot V2", function()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/RedJDarks/MAIN/refs/heads/main/HitboxExpander"))()
 end)
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+Bllladeball:CreateButton("Hixbot New UPDATE", function()
+
+end)
 ------------------------------------------------------------------------------------------------------------------------------------//
